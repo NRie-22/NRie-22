@@ -7,7 +7,7 @@
 ###
 
 <h1 align="center">Hello, I am Nataliya Rieger</h1>
-<p>Junior Full-Stack developer | HTML5 | CSS3 | JavaScript | React | Node.js</p>
+<p align="center">I am a Junior Full-Stack developer | HTML5 | CSS3 | JavaScript | React | Node.js</p>
 
 ###
 
