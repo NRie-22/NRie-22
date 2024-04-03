@@ -26,20 +26,11 @@
 
 ###
 
-###
-
-<p align="left">Hello, I'm a Junior Full-Stack Developer currently exploring new career opportunities. My skills include HTML5, CSS3, JavaScript, React, and Node.js.</p>
-<ul align="left">
-  <li><img src="link_to_fitness_image" alt="Fitness" /> My hobbies are fitness,</li>
-  <li><img src="link_to_painting_image" alt="Painting" /> painting,</li>
-  <li><img src="link_to_cooking_image" alt="Cooking" /> cooking 😊</li>
-</ul>
-<p align="left">You can reach me at <a href="mailto:NataliyaRieger@gmail.com">NataliyaRieger@gmail.com</a></p>
-<p align="left"><a href="https://www.linkedin.com/in/nataliya-rieger/">LinkedIn</a></p>
-<p align="left">I would greatly appreciate any support, contact recommendations, advice, or job opportunities you can offer. Thank you!</p>
-
-###
-
+<p align="left">Hello, I'm a Junior Full-Stack Developer currently exploring new career opportunities. My skills include HTML5, CSS3, JavaScript, React, and Node.js.
+- 🎮 My hobbies are fitness, painting, сooking😊
+- 💌 You can reach me by NataliyaRieger@gmail.com
+- 🌈 https://www.linkedin.com/in/nataliya-rieger/
+ <br>- I would greatly appreciate any support, contact recommendations, advice, or job opportunities you can offer. Thank you!</p>
 
 ###
 
