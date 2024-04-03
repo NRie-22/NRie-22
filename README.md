@@ -7,7 +7,7 @@
 ###
 
 <h1 align="center">Hello, I am Nataliya Rieger</h1>
-<p>Junior Full-Stack developer | HTML5 | CSS3 | JavaScript | React | Node.js</p>>
+<p>Junior Full-Stack developer | HTML5 | CSS3 | JavaScript | React | Node.js</p>
 
 ###
 
@@ -18,11 +18,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
-</div>
 
 ###
 
