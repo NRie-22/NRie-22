@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hello, I am Nataliya Rieger</h1>
+<h1 align="center">Hello, my name is  Nataliya Rieger</h1>
 <p align="center"> I am a Junior Full-Stack developer | HTML5 | CSS3 | JavaScript | React | Node.js</p>
 
 ###
