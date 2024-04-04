@@ -1,5 +1,11 @@
 ###
 
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+</p>
+
+###
+
 <h1 align="center">Hello 👋, my name is Nataliya Rieger</h1>
 <p align="center">I am a Junior Full-Stack developer | HTML5 | CSS3 | JavaScript | React | Node.js</p>
 
@@ -14,12 +20,6 @@
 <br>- 💌 You can reach me by <a href="mailto:NataliyaRieger@gmail.com">NataliyaRieger@gmail.com</a>
 <br>- 🌈 <a href="https://www.linkedin.com/in/nataliya-rieger/">LinkedIn</a>
 <br>I would greatly appreciate any support, contact recommendations, advice, or job opportunities you can offer. Thank you!</p>
-
-###
-
-<p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-</p>
 
 ###
 
