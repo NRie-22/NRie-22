@@ -9,6 +9,14 @@
 <h1 align="center">Hello 👋, my name is Nataliya Rieger</h1>
 <p align="center">I am a Junior Full-Stack developer | HTML5 | CSS3 | JavaScript | React | Node.js</p>
 
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nataliya-rieger/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ###
 
 <h3 align="left">👩‍💻 About me</h3>
