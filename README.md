@@ -7,7 +7,7 @@
 ###
 
 <h1 align="center">Hello 👋, my name is Nataliya Rieger</h1>
-<p align="center">I am a Junior Full-Stack developer | HTML5 | CSS3 | JavaScript | React | Node.js</p>
+<p align="center">I am a Junior Full-Stack developer & UX/UI Designer | HTML5 | CSS3 | JavaScript | React | Node.js</p> | Figma
 
 ### Socials
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hello, I'm a Junior Full-Stack Developer currently exploring new career opportunities. My skills include HTML5, CSS3, JavaScript, React, and Node.js.
+<p align="left">Hello, I'm a Junior Full-Stack Developer & UX/UI Designer currently exploring new career opportunities. My skills include HTML5, CSS3, JavaScript, React, Node.js, Figma.
 <br>- 🎮 My hobbies are fitness, painting, cooking 😊
 <br>- 💌 You can reach me by <a href="mailto:NataliyaRieger@gmail.com">NataliyaRieger@gmail.com</a>
 <br>- 🌈 <a href="https://www.linkedin.com/in/nataliya-rieger/">LinkedIn</a>
